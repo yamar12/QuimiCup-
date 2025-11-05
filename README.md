@@ -1,2 +1,2 @@
 # QuimiCup-
-Tudo sobre Química 🧪
+Tudo sobre Química 
